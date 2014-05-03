@@ -1,8 +1,3 @@
-Resolver as Questões e enviar as respostas em formato PDF, para o email
-: alberto@viegas.eti.br 
-Colocar no Campo do Assunto do e-mail: POS-FSF8-(Nome Completo)
-Até a data combinada pelo Professor
-
 ###############################################################################
 Exercícios – Shell Script
 ###############################################################################
